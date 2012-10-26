@@ -5,7 +5,9 @@ An open web app instrument tuner.
 
 Thanks
 ------
-* To Edna Piranha for letting me use the Noodle brand.
+* Edna Piranha for Noogle Enterprises.
+* Vlademareous for the [Violin icon](http://findicons.com/icon/77094/violin)
+  (CC-by licensed)
 
 License
 -------
