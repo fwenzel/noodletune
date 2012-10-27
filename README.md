@@ -3,7 +3,7 @@ noodletune
 
 An open web app instrument tuner.
 
-*NOTE*: This does not work yet, until Audio support lands in Firefox.
+*NOTE*: This does not work yet, until audio recording support lands in Firefox.
 
 
 Usage
